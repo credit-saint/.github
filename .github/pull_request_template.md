@@ -35,13 +35,13 @@ Please check the type of change your PR introduces:
 - [ ] I've added Tests for the code introduced on the PR if available
 - [ ] I've passed Tests, Linter, Prettier and needed Compilers locally
 - [ ] I've added necessary documentation (if appropriate)
-- [ ] I've included the Jira issue number in the branch name (BO-***)
+- [ ] I've included the Jira issue number in the branch name (ENG-***)
 - [ ] I've added reviewers
 - [ ] I'm confident about what I'm submitting (Commits, File changes, PR description)
 
 ```
-feat: Add some cool functionality (#10)
-fix: Fix a bug (#10)
+feat: Add some cool functionality [ENG-***]
+fix: Fix a bug [ENG-***]
 release: v1.0.0
 epic: Title of the epic (#10)
 ```
