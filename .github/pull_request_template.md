@@ -43,5 +43,5 @@ Please check the type of change your PR introduces:
 feat: Add some cool functionality [ENG-***]
 fix: Fix a bug [ENG-***]
 release: v1.0.0
-epic: Title of the epic (#10)
+epic: Title of the epic [ENG-***]
 ```
