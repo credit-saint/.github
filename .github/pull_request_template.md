@@ -1,3 +1,12 @@
+<!--
+Make sure you follow branch and PR naming conventions. [Docs are here](https://creditsaint.atlassian.net/wiki/x/LIDDAg).
+
+feat(ENG-123): Add some cool functionality
+fix(ENG-123): Fix a bug
+release: v1.0.0
+epic(ENG-123): Title of the epic
+-->
+
 ## Describe the changes ✍🏼
 <!--
 Summary of the changes and components affected by this PR in the codebase. (This shouldn't be a commit list or the issue description)
@@ -32,16 +41,9 @@ Please check the type of change your PR introduces:
 ## Checklist ✅ <!--(Don't delete! This is a reminder for the PR creator)-->
 
 - [ ] The PR name follows the standards
+- [ ] The branch name follows the standards
 - [ ] I've added Tests for the code introduced on the PR if available
 - [ ] I've passed Tests, Linter, Prettier and needed Compilers locally
 - [ ] I've added necessary documentation (if appropriate)
-- [ ] I've included the Jira issue number in the branch name (ENG-***)
 - [ ] I've added reviewers
 - [ ] I'm confident about what I'm submitting (Commits, File changes, PR description)
-
-```
-feat: Add some cool functionality [ENG-***]
-fix: Fix a bug [ENG-***]
-release: v1.0.0
-epic: Title of the epic [ENG-***]
-```
