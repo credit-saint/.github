@@ -23,8 +23,14 @@ Ex:
 - Call the ... endpoint with the following params... Now it should return...
 -->
 
-## Todo's 📄 <!--(optional)-->
-<!-- Link here any new issues that might've come up when developing this code. -->
+## Dependencies - DEVOPS 📄 <!--(optional)-->
+<!-- 
+Link here any new issues that might've come up when developing this code and devops dependendencies. 
+- Create a DevOps ticket in this board explaining what change we must make in the infrastructure and assign the ticket to the DevOps team.
+- Link this DevOps ticket to the Web/Mobile ticket
+- If the developer has access to the dev infrastructure, do the change.
+- When the feature will be released, a person for the DevOps teams should be in charge of executing/doing the steps of the created ticket in point 2
+-->
 
 ## Pull request type 🧐
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
@@ -47,3 +53,5 @@ Please check the type of change your PR introduces:
 - [ ] I've added necessary documentation (if appropriate)
 - [ ] I've added reviewers
 - [ ] I'm confident about what I'm submitting (Commits, File changes, PR description)
+- [ ] I've created a related **devops ticket** assigned to the devops team with infrastructure needs
+- [ ] I've notified the devops team about the ticket above
